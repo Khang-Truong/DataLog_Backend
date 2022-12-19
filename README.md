@@ -10,7 +10,7 @@
 # About the app
 This is the backend of DataLog web application.
 
-#Build with
+# Build with
 - MongoDB
 - FastAPI
 - Python 
