@@ -20,9 +20,6 @@ This is the backend of DataLog web application.
 ![image](https://user-images.githubusercontent.com/62549740/208380146-3a9650bd-d445-4339-8423-20cde49dc527.png)
 ![image](https://user-images.githubusercontent.com/62549740/208380241-6cc4e321-0ae2-4984-97c6-5996c9e4368e.png)
 
-# Heroku link
-https://datalogwebapp.herokuapp.com/docs#/datalog 
-
 # Contact
 - Kate Truong - khangtruong8385@gmail.com
 - Linkedin: https://www.linkedin.com/in/khangtruong8385/
